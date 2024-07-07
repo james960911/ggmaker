@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"主世界","order":1,"parentId":0,"scrollX":816,"scrollY":1044.6666666666667},
+{"id":2,"expanded":true,"name":"洞穴","order":2,"parentId":1,"scrollX":540.6666666666666,"scrollY":1119.3333333333333},
+{"id":3,"expanded":true,"name":"森林城鎮","order":3,"parentId":1,"scrollX":816,"scrollY":1240},
+{"id":4,"expanded":false,"name":"武器商店","order":4,"parentId":3,"scrollX":546,"scrollY":320.6666666666667},
+{"id":5,"expanded":false,"name":"破舊的房子","order":5,"parentId":3,"scrollX":540.6666666666666,"scrollY":426}
+]
